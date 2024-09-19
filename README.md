@@ -67,6 +67,7 @@
   * Homework - bouncing ball!
 
 ### Week 3 - Conditions
+ * Presenter: Peiming
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
  * Comment
