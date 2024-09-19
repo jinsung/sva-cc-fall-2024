@@ -73,10 +73,11 @@
  * Comment
  * console.log() / print()
  * Variables
-    * Naming
     * const vs let vs var
+    * types of variables
     * [Reusable](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
+    * if / else / else if
  * [Random function](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
  * [Lerp function](https://editor.p5js.org/jinsung/sketches/5FRaaBZFY)
