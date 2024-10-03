@@ -93,7 +93,6 @@
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
- * Debuger
  * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
 
 ### Week 5 -- Bezier / Noise / Nested Loop
@@ -108,6 +107,7 @@
  * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
+ * Debuger
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
 
