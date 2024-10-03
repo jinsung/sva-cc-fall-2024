@@ -103,7 +103,7 @@
    * [Scan Sequencer](https://jeonghopark.github.io/scanseqjs/)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Map function](https://editor.p5js.org/jinsung/sketches/zp-0lETu5)
- * [Bezier]([https://p5js.org/reference/#/p5/bezier](https://editor.p5js.org/jinsung/sketches/ILp1sOp6p))
+ * [Bezier](https://editor.p5js.org/jinsung/sketches/ILp1sOp6p)
  * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
