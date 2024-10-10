@@ -112,6 +112,7 @@
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
 
 ### Week 6 -- Nested Loop / 2D Transformation
+ * Presenter: Jing
  * Zach Lieberman    
     * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [Ink Space](https://experiments.withgoogle.com/ink-space)
@@ -139,7 +140,10 @@
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
  * Midterm / Next Presenters
 
-### Week 8 -- Object / Sound
+### Week 8
+ * Guest Speaker: David Stolarsky
+
+### Week 9 -- Object / Sound
  * [THA LTD.](http://tha.jp/works/)
     * [HIKARI NO TOKEI](https://tha.jp/1367)
     * [INDUSTRIOUS CLOCK](https://tha.jp/2816)
@@ -153,7 +157,7 @@
    * keywords: new, this
    * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
 
-### Week 9 -- Array
+### Week 10 -- Array
  * [Refik Anadol](https://refikanadol.com/)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
    * What is an Array
@@ -168,7 +172,7 @@
    * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
  
-### Week 10 -- Putting Together
+### Week 11 -- Putting Together, Kinetic Typography
  * Midterm presentation
  * [Putting Together](https://docs.google.com/document/d/1HONcIQmerhhLLn1MdpNw_jtPvBageGE33adoKJ3Abeo/edit?usp=sharing)
    * Idea - Start with an idea
@@ -177,8 +181,6 @@
  * Text
    * String
      * Exercise: Coordinate numbers on bouncing circles
-
-### Week 11 -- Kinetic Typography
  * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * Text
    * String
