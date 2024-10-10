@@ -118,7 +118,7 @@
     * [Ink Space](https://experiments.withgoogle.com/ink-space)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
- * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
+ * curveVertex()[1](https://editor.p5js.org/jinsung/sketches/P7C3uePKh), [2](https://editor.p5js.org/jinsung/sketches/z6nWuK-u3)
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Translate / Rotate / Scale
