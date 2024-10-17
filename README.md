@@ -128,6 +128,7 @@
 ### Week 7 -- Function / Clock
  * [DIA](https://dia.tv/)
     * [KIKK Festival](https://www.youtube.com/watch?v=JVS-AO4yqA4)
+ * Presenter: Kevin
  * Function
     * Function basic
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
