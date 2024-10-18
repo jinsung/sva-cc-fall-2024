@@ -158,6 +158,7 @@
    * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
 
 ### Week 10 -- Array
+ * Midterm presentation
  * [Refik Anadol](https://refikanadol.com/)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
    * What is an Array
@@ -173,7 +174,6 @@
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
  
 ### Week 11 -- Putting Together, Kinetic Typography
- * Midterm presentation
  * [Putting Together](https://docs.google.com/document/d/1HONcIQmerhhLLn1MdpNw_jtPvBageGE33adoKJ3Abeo/edit?usp=sharing)
    * Idea - Start with an idea
    * Parts - Break the idea down into smaller parts
