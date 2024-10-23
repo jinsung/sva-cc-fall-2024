@@ -140,11 +140,8 @@
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
  * Midterm
 
-### Week 8
- * Guest Speaker: David Stolarsky
-
-### Week 9 -- Object / Sound
- * [THA LTD.](http://tha.jp/works/)
+### Week 8 -- Object / Sound
+* [THA LTD.](http://tha.jp/works/)
     * [HIKARI NO TOKEI](https://tha.jp/1367)
     * [INDUSTRIOUS CLOCK](https://tha.jp/2816)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
@@ -156,6 +153,9 @@
    * contructor arguments
    * keywords: new, this
    * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
+
+### Week 9
+ * Guest Speaker: David Stolarsky
 
 ### Week 10 -- Array
  * Midterm presentation
