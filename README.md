@@ -141,9 +141,8 @@
  * Midterm
 
 ### Week 8 -- Object / Sound
-* [THA LTD.](http://tha.jp/works/)
-    * [HIKARI NO TOKEI](https://tha.jp/1367)
-    * [INDUSTRIOUS CLOCK](https://tha.jp/2816)
+ * Presenter: Sofia
+ * [Refik Anadol](https://refikanadol.com/)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * Sound Viz
    * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
@@ -159,7 +158,6 @@
 
 ### Week 10 -- Array
  * Midterm presentation
- * [Refik Anadol](https://refikanadol.com/)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
    * What is an Array
    * Define and assign an array
