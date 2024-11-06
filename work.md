@@ -20,8 +20,7 @@
 * [HW3](https://editor.p5js.org/epark41/sketches/GH8xxWUS9)
 ### Zhiyuan Qi
 * [HW1](https://editor.p5js.org/ZHIYUANQI/sketches/TGTAe_Lf4)
-* [HW2]()
-* [HW3]()
+
 ### Sophia Su
 * [HW1](https://editor.p5js.org/fsu2/sketches/sRXrw0feR)
 * [HW2](https://editor.p5js.org/fsu2/sketches/x3_hqdsrf)
@@ -29,7 +28,7 @@
 ### Jing Yu
 * [HW1](https://editor.p5js.org/jyu42/sketches/98fTKnTGx)
 * [HW2](https://editor.p5js.org/jyu42/sketches/JJrpGUtLU)
-* [HW3]()
+
 ### Qiaofeng Zhang
 * [HW1](https://editor.p5js.org/Leaddrey/sketches/_4rhDuJpo)
 * [HW2](https://editor.p5js.org/Leaddrey/sketches/ATNF792HV)
