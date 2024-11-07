@@ -145,19 +145,23 @@
  * [Refik Anadol](https://refikanadol.com/)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
  * Sound Viz
+   * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
+   * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
+ * Sound Viz
    * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
  * [Recursion](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
- * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
-   * class & constructor
-   * contructor arguments
-   * keywords: new, this
-   * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
 
 ### Week 9
  * Guest Speaker: David Stolarsky
 
 ### Week 10 -- Array
+ * Presenter: Justus
  * Midterm presentation
+ * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
+   * class & constructor
+   * contructor arguments
+   * keywords: new, this
+   * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
    * What is an Array
    * Define and assign an array
@@ -167,10 +171,7 @@
    * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
    * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
    * [Interactive Objects](https://editor.p5js.org/jinsung/sketches/r3iRZxFPs)
- * Sound Viz
-   * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
-   * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
- 
+
 ### Week 11 -- Putting Together, Kinetic Typography
  * [Putting Together](https://docs.google.com/document/d/1HONcIQmerhhLLn1MdpNw_jtPvBageGE33adoKJ3Abeo/edit?usp=sharing)
    * Idea - Start with an idea
