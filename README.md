@@ -140,7 +140,7 @@
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
  * Midterm
 
-### Week 8 -- Object / Sound
+### Week 8 -- Recursion / Sound
  * Presenter: Sofia
  * [Refik Anadol](https://refikanadol.com/)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
@@ -154,7 +154,7 @@
 ### Week 9
  * Guest Speaker: David Stolarsky
 
-### Week 10 -- Array
+### Week 10 -- Midterm / Object / Array
  * Presenter: Justus
  * Midterm presentation
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
