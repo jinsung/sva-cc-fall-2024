@@ -173,6 +173,7 @@
    * [Interactive Objects](https://editor.p5js.org/jinsung/sketches/r3iRZxFPs)
 
 ### Week 11 -- Putting Together, Kinetic Typography
+ * Presenter: Quaofeng
  * [Putting Together](https://docs.google.com/document/d/1HONcIQmerhhLLn1MdpNw_jtPvBageGE33adoKJ3Abeo/edit?usp=sharing)
    * Idea - Start with an idea
    * Parts - Break the idea down into smaller parts
