@@ -38,6 +38,7 @@
 ### Jing Yu
 * [HW1](https://editor.p5js.org/jyu42/sketches/98fTKnTGx)
 * [HW2](https://editor.p5js.org/jyu42/sketches/JJrpGUtLU)
+* [HW3](https://editor.p5js.org/jyu42/sketches/CkOiOv3AL)
 * [MT](https://editor.p5js.org/jyu42/sketches/znbXnGVzk)
 
 ### Qiaofeng Zhang
