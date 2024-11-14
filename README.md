@@ -174,6 +174,7 @@
 
 ### Week 11 -- Putting Together, Kinetic Typography
  * Presenter: Quaofeng
+ * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * [Putting Together](https://docs.google.com/document/d/1HONcIQmerhhLLn1MdpNw_jtPvBageGE33adoKJ3Abeo/edit?usp=sharing)
    * Idea - Start with an idea
    * Parts - Break the idea down into smaller parts
@@ -181,7 +182,6 @@
  * Text
    * String
      * Exercise: Coordinate numbers on bouncing circles
- * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * Text
    * String
    * Adding Files and Fonts
