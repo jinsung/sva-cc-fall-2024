@@ -185,7 +185,6 @@
  * Text
    * String
    * Adding Files and Fonts
- * [Bezier Text](https://editor.p5js.org/jinsung/sketches/iXmoy4Rck)
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/wvY9oi8bp)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
