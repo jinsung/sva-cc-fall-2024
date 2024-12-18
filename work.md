@@ -5,16 +5,19 @@
 * [MT](https://editor.p5js.org/eugenee/sketches/k6ByizXWZ)
 * [MT2](https://editor.p5js.org/eugenee/sketches/l729DG_mJ)
 * [MT3](https://editor.p5js.org/eugenee/sketches/-Npa12Zzt)
+* [Final](https://editor.p5js.org/eugenee/sketches/y_E-nXQ7X)
 ### Justus O. Arvelin
 * [HW1](https://editor.p5js.org/kisujusu/sketches/ZK55U9eWH)
 * [HW2](https://editor.p5js.org/kisujusu/sketches/GYDHp2p7r)
 * [HW3](https://editor.p5js.org/kisujusu/sketches/orbM3T_Fd)
 * [MT](https://editor.p5js.org/kisujusu/sketches/Kd0qvt3Aq)
+* [Final](https://editor.p5js.org/kisujusu/sketches/Cfbmgowbz)
 ### Kevin Cardona Cervantes
 * [HW1](https://editor.p5js.org/kcardonacervantes/sketches/iRJ0rb3yK)
 * [HW2](https://editor.p5js.org/kcardonacervantes/sketches/SCNpxR_RY)
 * [HW3](https://editor.p5js.org/kcardonacervantes/sketches/khxco7rRV)
 * [MT](https://editor.p5js.org/kcardonacervantes/sketches/cb3os3T-B)
+* [Final](https://editor.p5js.org/kcardonacervantes/sketches/SxKIyWETz)
 ### Peiming Hao
 * [HW1](https://editor.p5js.org/Peiming/sketches/815aMJOi8)
 * [HW2](https://editor.p5js.org/Peiming/sketches/8VsC8dT19)
@@ -26,15 +29,18 @@
 * [HW3](https://editor.p5js.org/epark41/sketches/GH8xxWUS9)
 * [MT](https://editor.p5js.org/epark41/sketches/la0ypyVT1)
 * [MT](https://editor.p5js.org/epark41/sketches/-psEP57kP)
+* [Final](https://editor.p5js.org/epark41/sketches/t0MVq4utO)
 ### Zhiyuan Qi
 * [HW1](https://editor.p5js.org/ZHIYUANQI/sketches/TGTAe_Lf4)
+* [HW3](https://editor.p5js.org/ZHIYUANQI/sketches/fWEnIAfolN)
 * [MT](https://editor.p5js.org/ZHIYUANQI/sketches/6GD6L1rUH)
-
+* [Final](https://editor.p5js.org/ZHIYUANQI/sketches/-G951nqin)
 ### Sophia Su
 * [HW1](https://editor.p5js.org/fsu2/sketches/sRXrw0feR)
 * [HW2](https://editor.p5js.org/fsu2/sketches/x3_hqdsrf)
 * [HW3](https://editor.p5js.org/fsu2/sketches/tmvZb0xdq)
 * [MT](https://editor.p5js.org/fsu2/sketches/E14zpI3tO)
+* [Final](https://editor.p5js.org/fsu2/sketches/6S8EBULtd)
 ### Jing Yu
 * [HW1](https://editor.p5js.org/jyu42/sketches/98fTKnTGx)
 * [HW2](https://editor.p5js.org/jyu42/sketches/JJrpGUtLU)
